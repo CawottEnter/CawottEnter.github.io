@@ -11,12 +11,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 RequestRecorder is a extension of Zap Proxy.
 
 ### TODO LIST
-- [] Graphical
-- [] Record request
-- [] Stop record
-- [] Record authentification
-- [] Replay authentification
-- [] Replay all
+- [ ] Graphical
+- [ ] Record request
+- [ ] Stop record
+- [ ] Record authentification
+- [ ] Replay authentification
+- [ ] Replay all
 
 
 ### Markdown

@@ -20,6 +20,9 @@ RequestRecorder is a extension of Zap Proxy.
 
 ### API
 
+# Browser Anonymisation/Hardering
+- [user.js from pllyukko](https://github.com/pyllyukko/user.js)
+- [user.js from arkenfox](https://github.com/arkenfox/user.js)
 
 
 ### Markdown
